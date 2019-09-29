@@ -2,7 +2,7 @@
 layout: post
 title:  "FlowFly Released!"
 date:   2016-08-05 12:09:45 +0900
-categories: jekyll update
+categories: games
 appstore: https://itunes.apple.com/kr/app/flowfly/id1111882280?mt=8
 playstore: https://play.google.com/store/apps/details?id=com.aivesoft.FlowFly
 image: /assets/uploads/flowfly_promotion1.png
