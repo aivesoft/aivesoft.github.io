@@ -31,6 +31,7 @@ logo: /assets/images/logo_transparent.png
 # Build settings
 remote_theme: aivesoft/aivesoft-jekyll-theme
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
 
 aivesoft-jekyll-theme:

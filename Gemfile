@@ -7,7 +7,9 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 4.0.0"
+# gem "jekyll", "~> 4.0.0"
+gem "jekyll", "~> 3.5"
+gem "jekyll-remote-theme"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "aivesoft-jekyll-theme"
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
