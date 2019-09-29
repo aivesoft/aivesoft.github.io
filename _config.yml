@@ -79,3 +79,7 @@ aivesoft-jekyll-theme:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+disqus:
+  shortname: aivesoft
+comments: true
