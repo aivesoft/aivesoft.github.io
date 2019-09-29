@@ -10,5 +10,6 @@ image: /assets/uploads/flowfly_promotion1.png
 
 ![flowfly_promotion2](/assets/uploads/flowfly_promotion2.png)
 ![flowfly_promotion3](/assets/uploads/flowfly_promotion3.png)
+{% include video_embed.html id="BuPZPhIOOSc" %}
 
 Avoid blocks! Collect coins! Unlock all Characters!
