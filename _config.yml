@@ -83,3 +83,5 @@ aivesoft-jekyll-theme:
 disqus:
   shortname: aivesoft
 comments: true
+
+google_analytics: UA-148999311-1
