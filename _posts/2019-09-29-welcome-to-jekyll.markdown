@@ -8,5 +8,7 @@ playstore: https://play.google.com/store/apps/details?id=com.aivesoft.FlowFly
 image: /assets/uploads/flowfly_promotion1.png
 ---
 
+![flowfly_promotion2](/assets/uploads/flowfly_promotion2.png)
+![flowfly_promotion3](/assets/uploads/flowfly_promotion3.png)
 
 Avoid blocks! Collect coins! Unlock all Characters!
