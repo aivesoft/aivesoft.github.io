@@ -29,7 +29,7 @@ github_username:  aivesoft
 logo: /assets/images/logo_transparent.png
 
 # Build settings
-remote_theme: aivesoft-jekyll-theme
+remote_theme: aivesoft/aivesoft-jekyll-theme
 plugins:
   - jekyll-feed
 
