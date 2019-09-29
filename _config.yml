@@ -18,21 +18,49 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: aivesoft
+email: contact@aivesoft.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  We make full of fun Games!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: aivesoft
+github_username:  aivesoft
+logo: /assets/images/logo_transparent.png
 
 # Build settings
-theme: minima
+theme: aivesoft-jekyll-theme
 plugins:
   - jekyll-feed
+
+aivesoft-jekyll-theme:
+  date_format: "%b %-d, %Y"
+
+  # generate social links in footer
+  social_links:
+    twitter: aivesoft
+    github:  aivesoft
+    rss: rss
+    # dribbble: jekyll
+    facebook: aivesoft
+    # flickr:   jekyll
+    # instagram: jekyll
+    # linkedin: jekyll
+    # pinterest: jekyll
+    # youtube: jekyll
+    youtube_channel: UClWGWvXyZemg5qWkd2v3fJA
+    youtube_channel_name: aivesoft
+    # telegram: jekyll
+    # googleplus: +jekyll
+    # microdotblog: jekyll
+    # keybase: jekyll
+
+    # Mastodon instances
+    # mastodon:
+    # - username: jekyll
+    #   instance: example.com
+    # - username: jekyll2
+    #   instance: example.com
 
 # Exclude from processing.
 # The following items will not be processed, by default.
