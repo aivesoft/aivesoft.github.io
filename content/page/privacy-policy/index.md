@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Privacy Policy
-permalink: /terms-of-use/
+permalink: /privacy-policy/
+date: 2016-08-05
 ---
 
 개인정보 취급방침

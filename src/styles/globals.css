@@ -1,0 +1,147 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    .article-content {
+        word-break: break-all;
+
+        h1, h2, h3, h4, h5, h6 {
+            font-weight: 900;
+        }
+
+        h1 {
+            font-size: 30px;
+            line-height: 42px;
+            margin-top: 36px;
+            margin-bottom: 0px;
+        }
+
+        h2 {
+            font-size: 26px;
+            line-height: 36px;
+            margin-top: 32px;
+            margin-bottom: 0px;
+        }
+
+        h3 {
+            font-size: 22px;
+            line-height: 32px;
+            margin-top: 26px;
+            margin-bottom: 0px;
+        }
+
+        h4 {
+            font-size: 20px;
+            line-height: 30px;
+            margin-top: 20px;
+            margin-bottom: 0px;
+        }
+
+        h5 {
+            font-size: 18px;
+            line-height: 28px;
+        }
+
+        h6 {
+            font-size: 16px;
+            line-height: 26px;
+        }
+
+        img + em, span + em {
+            display: block;
+            width: 100%;
+            text-align: center;
+            font-size: 14px;
+        }
+
+        p {
+            font-size: 16px;
+            line-height: 28px;
+            margin-bottom: 16px;
+            padding: 0;
+        }
+
+        a {
+            margin: 0;
+            padding: 0;
+            vertical-align: baseline;
+            text-decoration: underline;
+
+            &:visited {
+            }
+
+            &:hover {
+            }
+
+            &:active {
+            }
+        }
+
+        ul, ol {
+            li {
+                font-size: 16px;
+                line-height: 28px;
+                margin-bottom: 12px;
+            }
+        }
+
+        code {
+            text-shadow: none !important;
+            font-size: 13px !important;
+            padding: 4px 6px !important;
+        }
+
+        pre {
+            white-space: pre-wrap;
+
+            code {
+                background: inherit !important;
+                color: inherit !important;
+                text-shadow: inherit !important;
+            }
+        }
+
+        aside {
+            display: block;
+            float: right;
+        }
+
+        blockquote {
+            margin: 24px 0;
+            padding: 24px 32px;
+            box-sizing: border-box;
+
+            p {
+                &:last-child {
+                    margin: 0;
+                }
+            }
+        }
+
+        hr {
+            height: 1px;
+            margin: 30px 0;
+            border: none;
+        }
+
+        table {
+            border-collapse: collapse;
+            margin: 1em 1em;
+            border: 1px solid #CCC;
+        }
+
+        table thead {
+            background-color: #EEE;
+        }
+
+        table thead td {
+            color: #666;
+        }
+
+        table td {
+            padding: 0.5em 1em;
+            border: 1px solid #CCC;
+        }
+    }
+}
